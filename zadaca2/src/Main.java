@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //Zadatak 2
-        /*
+
         int radius = 3;
         double area = 3.14*radius*radius;
         System.out.println("The surface of the circle is: " + area);
@@ -99,7 +99,7 @@ public class Main {
             int theOne = withoutTwo/1;
             System.out.println("The 1 KM: "+ theOne);
         }
-        */
+        
 
 
         //BONUS
